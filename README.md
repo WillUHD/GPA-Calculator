@@ -26,11 +26,12 @@ calculate SHSID's curriculum GPAs with ease
 
 ### Demo
 
-<img align="left" width="207" height="448" alt="IMG_2110" src="https://github.com/user-attachments/assets/914cbb10-b696-488c-a0e7-59de295e320e" />
-<img align="right" width="207" height="448" alt="IMG_2106" src="https://github.com/user-attachments/assets/336db09c-e193-4673-8c1a-a25fff714278" />
-<img align="left" width="207" height="448" alt="IMG_2107" src="https://github.com/user-attachments/assets/fdf59915-74ab-4558-9ec8-625d33eaa7a6" />
-<img align="right" width="207" height="448" alt="IMG_2108" src="https://github.com/user-attachments/assets/cd0dc751-b62a-4fe2-8fdc-1954c252dc56" />
+<img width="207" height="448" alt="IMG_2110" src="https://github.com/user-attachments/assets/914cbb10-b696-488c-a0e7-59de295e320e" />
+<img width="207" height="448" alt="IMG_2106" src="https://github.com/user-attachments/assets/336db09c-e193-4673-8c1a-a25fff714278" />
+<img width="207" height="448" alt="IMG_2107" src="https://github.com/user-attachments/assets/fdf59915-74ab-4558-9ec8-625d33eaa7a6" />
+<img width="207" height="448" alt="IMG_2108" src="https://github.com/user-attachments/assets/cd0dc751-b62a-4fe2-8fdc-1954c252dc56" />
 
+---
 
 Auto-update at startup,  clear module selection logic, and a fun pie chart for you to reference. 
 
