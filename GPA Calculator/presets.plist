@@ -571,45 +571,6 @@
             </array>
         </dict>
         <dict>
-            <key>id</key><string>shsid2025grade11-IB</string>
-            <key>name</key><string>Grade 11</string>
-            <key>subtitle</key><string>IB courses</string>
-            <key>modules</key>
-            <array>
-                <dict>
-                    <key>type</key><string>core</string>
-                    <key>subjects</key>
-                    <array>
-                        <dict><key>name</key><string>English A/B</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>Math AA/AI</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>Chinese A/B</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>ToK</string><key>weight</key><real>3.0</real><key>levels</key><array><dict><key>name</key><string>IB</string><key>offset</key><real>0.0</real></dict></array></dict>
-                    </array>
-                </dict>
-                <dict>
-                    <key>type</key><string>choice</string>
-                    <key>name</key><string>Electives</string>
-                    <key>selectionLimit</key><integer>3</integer>
-                    <key>subjects</key>
-                    <array>
-                        <dict><key>name</key><string>IB Physics</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB Chemistry</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB Biology</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB Economics</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB Business Mgmt</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB Psychology</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB History</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB Philosophy</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB Visual Arts</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB Music</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB Theatre</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB Comp Sci</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>HL</string><key>offset</key><real>0.0</real></dict><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                        <dict><key>name</key><string>IB ESS</string><key>weight</key><real>6.0</real><key>levels</key><array><dict><key>name</key><string>SL</string><key>offset</key><real>0.0</real></dict></array></dict>
-                    </array>
-                </dict>
-            </array>
-        </dict>
-        <dict>
             <key>id</key><string>shsid2025grade12</string>
             <key>name</key><string>Grade 12</string>
             <key>subtitle</key><string>AP/AS/school course</string>
@@ -631,11 +592,11 @@
                         <dict>
                             <key>name</key><string>Math</string><key>weight</key><real>6.0</real>
                             <key>levels</key><array>
-                                <dict><key>name</key><string>S</string><key>offset</key><real>0.5</real></dict>
-                                <dict><key>name</key><string>H</string><key>offset</key><real>0.2</real></dict>
+                                <dict><key>name</key><string>Advanced S</string><key>offset</key><real>0.5</real></dict>
+                                <dict><key>name</key><string>Advanced H</string><key>offset</key><real>0.2</real></dict>
                                 <dict><key>name</key><string>Stats</string><key>offset</key><real>0.2</real></dict>
-                                <dict><key>name</key><string>Further</string><key>offset</key><real>0.2</real></dict>
-                                <dict><key>name</key><string>MultiVar</string><key>offset</key><real>0.2</real></dict>
+                                <dict><key>name</key><string>Further Maths</string><key>offset</key><real>0.2</real></dict>
+                                <dict><key>name</key><string>Multi-Variable</string><key>offset</key><real>0.2</real></dict>
                                 <dict><key>name</key><string>AP Stats</string><key>offset</key><real>0.0</real></dict>
                                 <dict><key>name</key><string>AP Calc AB</string><key>offset</key><real>0.0</real></dict>
                             </array>
@@ -718,9 +679,9 @@
             </array>
         </dict>
         <dict>
-            <key>id</key><string>shsid2025grade12-IB</string>
-            <key>name</key><string>Grade 12</string>
-            <key>subtitle</key><string>2-year IB for G12</string>
+            <key>id</key><string>shsid2025-G11G12-IB</string>
+            <key>name</key><string>IB Track</string>
+            <key>subtitle</key><string>2-year IB for G11/G12</string>
             <key>modules</key>
             <array>
                 <dict>
