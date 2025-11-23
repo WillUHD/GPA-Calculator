@@ -1,4 +1,4 @@
-<img align="right" width="128" height="128" alt="SHSID Data Science Club" src="https://github.com/WillUHD/GPA-Calculator/blob/main/GPA%20Calculator/Assets.xcassets/GPACalcIcon.imageset/icon_128x128.png?raw=true" />
+<img align="right" width="128" height="128" alt="icon_60pt@3x" src="https://github.com/user-attachments/assets/888bd7f7-9d0a-4cff-8d10-016480fdb9f9" />
 
 <div align="left">
 
@@ -17,23 +17,20 @@ calculate SHSID's curriculum GPAs with ease
 - Overhauled UI with module selection improvements
   - instead of having many module choices for G11, there are now 2: IB and everything else
   - the course logic is much smarter, allowing you to choose your modules dynamically
-- Added a GPA pie viewer!
-  - fun visualization of your GPA with fun animations
-  - tap a subject to look at its insights (its own weighted GPA)
 - Still kept Michel's legendary GPA algorithm and grades 6-8. 😎
 
 ---
 
 ### Demo
 
-<img width="207" height="448" alt="IMG_2110" src="https://github.com/user-attachments/assets/914cbb10-b696-488c-a0e7-59de295e320e" />
 <img width="207" height="448" alt="IMG_2106" src="https://github.com/user-attachments/assets/336db09c-e193-4673-8c1a-a25fff714278" />
 <img width="207" height="448" alt="IMG_2107" src="https://github.com/user-attachments/assets/fdf59915-74ab-4558-9ec8-625d33eaa7a6" />
-<img width="207" height="448" alt="IMG_2108" src="https://github.com/user-attachments/assets/cd0dc751-b62a-4fe2-8fdc-1954c252dc56" />
 
 ---
 
-Auto-update at startup,  clear module selection logic, and a fun pie chart for you to reference. 
+Auto-update at startup, so GPA Calc stays updated without needing an App Store update
+
+Refined Module logic, adding intuitive selection and full coverage for grades 6-12
 
 The new GPA Calc is just as accurate, while being improved all around. 
 
