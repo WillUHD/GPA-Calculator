@@ -4,7 +4,7 @@
    presets.plist
    GPA Calculator
 
-   Created by WillUHD at Nov 24, 2025
+   Created by WillUHD at Nov 23, 2025
    Course edition: Winter 2025 v1
 
     This plist stores all the course data, and is continuously updated at https://github.com/WillUHD/GPAResources
@@ -31,7 +31,7 @@
     <key>catalogName</key>
     <string>SHSID '25-26 Catalog, Winter 2025 Edition v1 by WillUHD</string>
     <key>lastUpdated</key>
-    <string>2025-11-24</string>
+    <string>2025-11-23</string>
     <key>commonScoreMap</key>
     <array>
         <dict><key>percentageName</key><string>0</string><key>letterName</key><string>F</string><key>baseGPA</key><real>0</real></dict>

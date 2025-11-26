@@ -7,7 +7,7 @@
 //
 //  - new level selection logic for more levels on many screen types
 //  - live update for autofetch
-//  - adapts to refined in-memory data models
+//  - refined in-memory data models
 //
 
 import UIKit
