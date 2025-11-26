@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		BEF4CF8C2ED0AA5600B0E54D /* presets.plist in Resources */ = {isa = PBXBuildFile; fileRef = BEF4CF8B2ED0AA5600B0E54D /* presets.plist */; };
 		BEF4CF8E2ED1FE8B00B0E54D /* OTAUpdater.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF4CF8D2ED1FE8B00B0E54D /* OTAUpdater.swift */; };
-		BEF4CF902ED1FEA100B0E54D /* PieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEF4CF8F2ED1FEA100B0E54D /* PieView.swift */; };
 		F0AB3304255AD54F007D7601 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AB3303255AD54F007D7601 /* AppDelegate.swift */; };
 		F0AB3306255AD54F007D7601 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AB3305255AD54F007D7601 /* SceneDelegate.swift */; };
 		F0AB3308255AD54F007D7601 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0AB3307255AD54F007D7601 /* ViewController.swift */; };
@@ -24,7 +23,6 @@
 /* Begin PBXFileReference section */
 		BEF4CF8B2ED0AA5600B0E54D /* presets.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = presets.plist; sourceTree = "<group>"; };
 		BEF4CF8D2ED1FE8B00B0E54D /* OTAUpdater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OTAUpdater.swift; sourceTree = "<group>"; };
-		BEF4CF8F2ED1FEA100B0E54D /* PieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PieView.swift; sourceTree = "<group>"; };
 		F0AB3300255AD54F007D7601 /* GPA Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GPA Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0AB3303255AD54F007D7601 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F0AB3305255AD54F007D7601 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -80,7 +78,6 @@
 				BEF4CF8B2ED0AA5600B0E54D /* presets.plist */,
 				BEF4CF8D2ED1FE8B00B0E54D /* OTAUpdater.swift */,
 				F0E4F61C2561105A005E3108 /* Presets.swift */,
-				BEF4CF8F2ED1FEA100B0E54D /* PieView.swift */,
 				F0AB3307255AD54F007D7601 /* ViewController.swift */,
 				F0E4F617256101E3005E3108 /* customViewController.swift */,
 			);
@@ -159,7 +156,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F0E4F61D2561105A005E3108 /* Presets.swift in Sources */,
-				BEF4CF902ED1FEA100B0E54D /* PieView.swift in Sources */,
 				F0AB3308255AD54F007D7601 /* ViewController.swift in Sources */,
 				F0AB3304255AD54F007D7601 /* AppDelegate.swift in Sources */,
 				BEF4CF8E2ED1FE8B00B0E54D /* OTAUpdater.swift in Sources */,
@@ -315,15 +311,16 @@
 				CODE_SIGN_ENTITLEMENTS = "GPA Calculator/GPA Calculator.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 15;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 42FUNX75XP;
 				INFOPLIST_FILE = "GPA Calculator/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "GPA Calculator";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1.10;
+				MARKETING_VERSION = 3.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.willuhd.gpacalc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
@@ -341,15 +338,16 @@
 				CODE_SIGN_ENTITLEMENTS = "GPA Calculator/GPA Calculator.entitlements";
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 15;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 42FUNX75XP;
 				INFOPLIST_FILE = "GPA Calculator/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "GPA Calculator";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.1.10;
+				MARKETING_VERSION = 3.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.willuhd.gpacalc;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
